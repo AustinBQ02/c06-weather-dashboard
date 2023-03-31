@@ -3,31 +3,25 @@ This is challenge 6 for the UT Boot Camp ( build a weather dashboard that will r
 
 ## Description
 
-> Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:  
->   
-> - What was your motivation?  
-> - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")  
-> - What problem does it solve?  
-> - What did you learn?  
+This challenge is to practice retrieving data from another application's API and using it in the context of a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
 ## Table of Contents
 
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
 
-> What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
-> Provide instructions and examples for use. Include screenshots as needed.
->   
-> To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:  
->   
->   `![alt text](assets/images/screenshot.png)`
+https://austinbq02.github.io/c06-weather-dashboard/ 
+
+- Navigate to the link above to view the dashboard.
+- Enter a location and press search.
+- The current conditions and 5-day forecast will be displayed.
+- Your search history is maintained under the search box.
 
 
 ## Credits
@@ -39,6 +33,12 @@ This is challenge 6 for the UT Boot Camp ( build a weather dashboard that will r
 > If you followed tutorials, include links to those here as well.
 
 Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+Initial HTML & CSS - [w3 Schools Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/index.php)
+
+Bootstrap - https://getbootstrap.com/
+
+UT Coding Bootcamp - Module 6
 
 ## License
 
