@@ -23,14 +23,10 @@ https://austinbq02.github.io/c06-weather-dashboard/
 - The current conditions and 5-day forecast will be displayed.
 - Your search history is maintained under the search box.
 
+![dashboard](https://user-images.githubusercontent.com/77471738/229215745-3c0d8747-54b3-41b5-bac0-592947dc248b.jpg)
+
 
 ## Credits
-
-> List your collaborators, if any, with links to their GitHub profiles.
-> 
-> If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-> 
-> If you followed tutorials, include links to those here as well.
 
 Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
